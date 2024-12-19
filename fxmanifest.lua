@@ -18,7 +18,6 @@ files {
     'css/colors/yellow-2.css',
     'css/style-dark.css',
     'img/film-grain.png',
-    'img/logo-light.png',
     'js/main.js',
     'js/plugins.js',
     'webfonts/fa-brands-400.eot',
